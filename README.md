@@ -8,13 +8,6 @@
 - This is a website, so every can access through a browser
 - Simple UI
   
-## 📌Preview of the project 
-<img src="./media/Annotation%202022-10-26%20181800.png" width="100%" >
-
-***Check the live website*** https://morsecodegenerator-c912e.web.app/
-## 🧭 🗺️ Contribution 
-  
-
 
 
 ## 🚔 License
